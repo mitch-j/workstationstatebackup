@@ -59,4 +59,3 @@ In the highly unlikely event that that is _not_ the case, commits to update or a
 - [GitHub pull request documentation](https://help.github.com/send-pull-requests/)
 - [GitHub Flow guide](https://guides.github.com/introduction/flow/)
 - [GitHub's guide to contributing to open source projects](https://guides.github.com/activities/contributing-to-open-source/)
-
